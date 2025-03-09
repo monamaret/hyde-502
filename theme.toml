@@ -1,14 +1,14 @@
-name = "Hyde"
+name = "Hyde-502"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
-description = "An elegant open source and mobile first theme"
+licenselink = "https://github.com/monamaret/hyde-502/blob/master/LICENSE.md"
+description = "Hyde-502, a Hugo theme based on Hyde"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.53
 
 [author]
-    name = "spf13"
-    homepage = "http://spf13.com"
+    name = "Mona Maret"
+    homepage = "https://monamaret.com"
 
 # If Porting existing theme
 [original]
